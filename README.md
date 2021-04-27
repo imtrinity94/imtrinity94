@@ -6,6 +6,8 @@
 - 💬 Ask me about vRealize Orchestrator
 - ⚡ Interests: [Chess](https://lichess.org/@/imtrinity94) 
 
+### Connect
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankgoyal1994)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtrinity94@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imtrinity94)
@@ -18,7 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imtrinity94&repo=vmware_vro)](https://github.com/imtrinity94/vmware_vro)
 
 
-### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
