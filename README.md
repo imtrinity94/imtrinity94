@@ -6,10 +6,10 @@
 - 💬 Ask me about vRealize Orchestrator
 - ⚡ Interests: [Chess](https://lichess.org/@/imtrinity94) 
 
-[![Linkedin](https://img.shields.io/badge/-Envoy_1084-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayankgoyal1994)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankgoyal1994)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtrinity94@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imtrinity94)
-[![Soundcloud](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://soundcloud.com/imtrinity94)
+[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](http://soundcloud.com/imtrinity94)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imtrinity94)
 
 
