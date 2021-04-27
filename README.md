@@ -8,4 +8,4 @@
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/imtrinity94/vmware_vro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imtrinity94&repo=vmware_vro)](https://github.com/imtrinity94/vmware_vro)
