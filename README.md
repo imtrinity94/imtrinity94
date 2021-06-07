@@ -2,7 +2,10 @@
 <img src="https://user-images.githubusercontent.com/7029361/120767180-94c96880-c538-11eb-8578-7bced50cc64f.png">
   </p>
 
-## Hi there 👋
+<details>
+  <summary align="center"><samp>Click for more...</samp></summary>
+
+  ## Hi there 👋
 
 - 🔭 I’m currently working on VMware Private Cloud
 - 🌱 I’m currently learning Swift for some personal iOS Apps
@@ -27,5 +30,5 @@
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/imtrinity94)
 
 
-
+</details>
 
