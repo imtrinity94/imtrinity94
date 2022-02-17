@@ -1,11 +1,12 @@
-### Visit my Github Page [here](https://imtrinity94.github.io)  
+### Visit my Github Page [here](https://imtrinity94.github.io)
+![](https://komarev.com/ghpvc/?username=imtrinity94&color=green)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7029361/120767180-94c96880-c538-11eb-8578-7bced50cc64f.png">
   </p>
 
 <details>
   <summary align="center"><samp>Click for more...</samp></summary>
-
+  
   ## Hi there 👋
 
 - 🔭 I’m currently working on VMware Private Cloud
