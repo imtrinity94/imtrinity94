@@ -1,4 +1,13 @@
 ### Visit my Github Page [here](https://imtrinity94.github.io)
+
+### My Bit.ly Links
+[bit.ly/Polywork-Link](http://bit.ly/Polywork-Link)  
+[bit.ly/GitHub-Code](http://bit.ly/GitHub-Code)  
+[bit.ly/Instagram-Life](http://bit.ly/Instagram-Life)  
+[bit.ly/Twitter-Add](http://bit.ly/Twitter-Add)  
+[bit.ly/LinkedIn-Link](http://bit.ly/LinkedIn-Link)  
+[bit.ly/Mayank-Blog](http://bit.ly/Mayank-Blog)
+
 ![](https://komarev.com/ghpvc/?username=imtrinity94&color=green)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/7029361/120767180-94c96880-c538-11eb-8578-7bced50cc64f.png">
