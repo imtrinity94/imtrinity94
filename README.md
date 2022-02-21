@@ -25,7 +25,7 @@
 - 💬 Ask me about vRealize Orchestrator
 - ⚡ Interests: [Chess](https://lichess.org/@/imtrinity94/perf/blitz) 
 
-## Let's connect![2022-02-21 15_45_51-mayankgoyal](https://user-images.githubusercontent.com/7029361/154935187-777be201-8f44-4dde-aa3c-e4c31f9fff21.jpg)
+## Let's connect
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankgoyal1994)
