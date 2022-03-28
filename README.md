@@ -1,19 +1,6 @@
-### Visit my Github Page [here](https://imtrinity94.github.io)
-
-### My Bit.ly Links
-[bit.ly/Polywork-Link](http://bit.ly/Polywork-Link)  
-[bit.ly/GitHub-Code](http://bit.ly/GitHub-Code)  
-[bit.ly/Instagram-Life](http://bit.ly/Instagram-Life)  
-[bit.ly/Twitter-Add](http://bit.ly/Twitter-Add)  
-[bit.ly/LinkedIn-Link](http://bit.ly/LinkedIn-Link)  
-[bit.ly/Mayank-Blog](http://bit.ly/Mayank-Blog) 
-
+### Visit my Blog [here](https://cloudblogger.co.in/)
 
 ![](https://komarev.com/ghpvc/?username=imtrinity94&color=green) <br>
-[👨‍🚀✰⋆🌟✪🔯✨ MMM.page](http://bit.ly/mmmdotpage)
-<p align="center">
-<img src="https://user-images.githubusercontent.com/7029361/154935250-dfa35fe3-0a0e-423d-9b43-5654bff0f934.jpg">
-  </p>
 
 <details>
   <summary align="center"><samp>Click for more...</samp></summary>
@@ -48,3 +35,10 @@
 
 </details>
 
+### My Bit.ly Links
+[bit.ly/Polywork-Link](http://bit.ly/Polywork-Link)  
+[bit.ly/GitHub-Code](http://bit.ly/GitHub-Code)  
+[bit.ly/Instagram-Life](http://bit.ly/Instagram-Life)  
+[bit.ly/Twitter-Add](http://bit.ly/Twitter-Add)  
+[bit.ly/LinkedIn-Link](http://bit.ly/LinkedIn-Link)  
+[bit.ly/Mayank-Blog](http://bit.ly/Mayank-Blog) 
