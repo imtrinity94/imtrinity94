@@ -33,7 +33,7 @@
 
 
 
-</details>
+
 
 ### My Bit.ly Links
 [bit.ly/Polywork-Link](http://bit.ly/Polywork-Link)  
@@ -42,3 +42,5 @@
 [bit.ly/Twitter-Add](http://bit.ly/Twitter-Add)  
 [bit.ly/LinkedIn-Link](http://bit.ly/LinkedIn-Link)  
 [bit.ly/Mayank-Blog](http://bit.ly/Mayank-Blog) 
+
+  </details>
