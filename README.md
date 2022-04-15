@@ -7,8 +7,8 @@
   
   ## Hi there 👋
 
-- 🔭 I’m currently working on VMware Private Cloud
-- 👯 I’m looking to collaborate on vRealize Orchestrator JS code development
+- 🔭 I’m currently working on VMware Private & Hybrid Cloud
+- 👯 I’m looking to collaborate on vRealize Orchestrator Polyglot code development
 - 💬 Ask me about vRealize Orchestrator
 - ⚡ Interests: [Chess](https://lichess.org/@/imtrinity94/perf/blitz) 
 
