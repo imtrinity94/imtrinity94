@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=imtrinity94&color=green) <br>
 
+![Snake animation](https://github.com/imtrinity94/imtrinity94/blob/output/github-contribution-grid-snake.svg)
 <details>
   <summary align="center"><samp>Click for more...</samp></summary>
   
