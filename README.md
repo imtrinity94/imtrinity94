@@ -8,8 +8,8 @@
   ## Hi there 👋
 
 - 🔭 I’m currently working on VMware Private & Hybrid Cloud
-- 👯 I’m looking to collaborate on vRealize Orchestrator Polyglot code development
-- 💬 Ask me about vRealize Orchestrator
+- 👯 I’m looking to collaborate on VMware Aria Automation and Orchestrator
+- 💬 Ask me about VMware
 - ⚡ Interests: [Chess](https://lichess.org/@/imtrinity94/perf/blitz) 
 
 ## Let's connect
