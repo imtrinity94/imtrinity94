@@ -125,6 +125,9 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
 <!-- BLOG-POST-LIST:START -->
 - [vRO Peekage: Peek into your vRO Packages and Let AI Understand Your Orchestrator Code](https://cloudblogger.co.in/2026/10/10/vro-peekage-browse-vro-packages-in-your-browser/)
 - [Using vSphere DataSets from Orchestrator to Deliver Data into a Guest OS secretively](https://cloudblogger.co.in/2026/08/21/using-vsphere-datasets-from-orchestrator-to-deliver-data-into-a-guest-os-secretively/)
+- [Leveraging pyvmomi in VCF Operations Orchestrator](https://cloudblogger.co.in/2026/08/20/leveraging-pyvmomi-in-vcf-operations-orchestrator/)
+- [Differences between VM Apps &amp; All Apps in VCF Automation 9.1](https://cloudblogger.co.in/2026/08/12/differences-between-vm-apps-all-apps-in-vcf-automation-9-1/)
+- [Backup Your Spotify Liked Songs to a new Playlist with Python](https://cloudblogger.co.in/2026/07/15/backup-your-spotify-liked-songs-to-a-new-playlist-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://cloudblogger.co.in">➡️ Read more on cloudblogger.co.in</a></p>
