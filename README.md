@@ -124,24 +124,10 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
 
 ---
 
-### 📊 GitHub stats
+### 📊 Contributions
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" alt="Repos per language" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="Stats" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imtrinity94&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=imtrinity94&hide_border=true&border_radius=12&background=0B1D3A&stroke=1565C0&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=90CAF9&dates=90CAF9&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
 </p>
 
 <p align="center">
