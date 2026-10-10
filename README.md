@@ -61,7 +61,7 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
       <h4>📘 <a href="https://github.com/imtrinity94/modern-vroapi">modern-vroapi</a></h4>
       A modern, searchable documentation website for the VCF Orchestrator scripting API.
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <a href="https://modernvroapi.in/#/"><img src="https://img.shields.io/badge/Live%20site-modernvroapi.in-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" /></a>
       <img src="https://img.shields.io/github/stars/imtrinity94/modern-vroapi?style=flat-square&color=1565C0" alt="Stars" />
     </td>
   </tr>
