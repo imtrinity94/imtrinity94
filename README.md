@@ -114,9 +114,6 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
 |---|---|---|---|
 | [`vcf-orchestrator-mcp`](https://www.npmjs.com/package/vcf-orchestrator-mcp) | MCP server for VCF Operations Orchestrator 9.x | ![v](https://img.shields.io/npm/v/vcf-orchestrator-mcp?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/vcf-orchestrator-mcp?style=flat-square&color=1565C0) |
 | [`curl2vro`](https://www.npmjs.com/package/curl2vro) | Convert curl commands to Orchestrator JavaScript | ![v](https://img.shields.io/npm/v/curl2vro?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/curl2vro?style=flat-square&color=1565C0) |
-| [`vro-action-extractor`](https://www.npmjs.com/package/vro-action-extractor) | CLI to extract scriptable actions from workflows, packages and folders | ![v](https://img.shields.io/npm/v/vro-action-extractor?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/vro-action-extractor?style=flat-square&color=1565C0) |
-| [`vra_iaas-mcp`](https://www.npmjs.com/package/vra_iaas-mcp) | MCP server for the vRA IaaS API | ![v](https://img.shields.io/npm/v/vra_iaas-mcp?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/vra_iaas-mcp?style=flat-square&color=1565C0) |
-| [`vra_iaas`](https://www.npmjs.com/package/vra_iaas) | TypeScript library for the vRA IaaS API | ![v](https://img.shields.io/npm/v/vra_iaas?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/vra_iaas?style=flat-square&color=1565C0) |
 
 ---
 
