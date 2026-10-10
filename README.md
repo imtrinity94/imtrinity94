@@ -1,36 +1,165 @@
-### Visit my Blog [here](https://cloudblogger.co.in/)
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:1565C0,100:00B4D8&height=210&section=header&text=Mayank%20Goyal&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=VCF%20Automation%20%E2%80%A2%20Orchestrator%20%E2%80%A2%20Infrastructure%20Automation&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Mayank Goyal" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=imtrinity94&color=green) <br>
+<p align="center">
+  <a href="https://cloudblogger.co.in">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=640&lines=Automation+architect+on+VMware+Cloud+Foundation;VCF+Automation+%7C+VCF+Operations+Orchestrator+(vRO);Building+open-source+tooling+for+the+vRO+community;Writing+at+cloudblogger.co.in" alt="Typing intro" />
+  </a>
+</p>
 
-<details>
-  <summary align="center"><samp>Click for more...</samp></summary>
-  
-  ## Hi there 👋
+<p align="center">
+  <a href="https://cloudblogger.co.in"><img src="https://img.shields.io/badge/Blog-cloudblogger.co.in-1565C0?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/mayankgoyal1994"><img src="https://img.shields.io/badge/LinkedIn-mayankgoyal1994-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/imtrinity94"><img src="https://img.shields.io/badge/X-@imtrinity94-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.npmjs.com/~imtrinity94"><img src="https://img.shields.io/badge/npm-imtrinity94-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="mailto:imtrinity94@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🔭 I’m currently working on VMware Private & Hybrid Cloud
-- 👯 I’m looking to collaborate on VMware Aria Automation and Orchestrator
-- 💬 Ask me about VMware
-- ⚡ Interests: [Chess](https://lichess.org/@/imtrinity94/perf/blitz) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imtrinity94&label=Profile%20views&color=1565C0&style=flat-square" alt="Profile views" />
+</p>
 
-## Let's connect
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankgoyal1994)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imtrinity94@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imtrinity94)
+---
 
-### Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/imtrinity94)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/imtrinity94)
-[![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)](https://github.com/imtrinity94)
-  
-### My Github Stats  
-[![imtrinity94's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtrinity94)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 About me
 
-### My Bit.ly Links
-[bit.ly/Polywork-Link](http://bit.ly/Polywork-Link)  
-[bit.ly/GitHub-Code](http://bit.ly/GitHub-Code)  
-[bit.ly/Instagram-Life](http://bit.ly/Instagram-Life)  
-[bit.ly/Twitter-Add](http://bit.ly/Twitter-Add)  
-[bit.ly/LinkedIn-Link](http://bit.ly/LinkedIn-Link)  
-[bit.ly/Mayank-Blog](http://bit.ly/Mayank-Blog) 
+I design and deliver infrastructure automation on **VMware Cloud Foundation**, working with enterprise customers on VCF and vSphere platforms.
 
-  </details>
+- 🏗️ **Focus:** VCF Automation 9.x, VCF Operations Orchestrator (vRO), Aria Automation 8.x and NSX
+- 🧩 **What I do:** solution architecture and low-level design, automation services, custom integrations and code migrations
+- 🛠️ **What I build:** open-source developer tooling for Orchestrator — documentation sites, package explorers, code converters and MCP servers
+- ✍️ **Where I write:** [cloudblogger.co.in](https://cloudblogger.co.in), a blog on vRO and VCF Automation
+- 💬 **Talk to me about:** vRO scripting and packaging, VCF Automation design, and AI-assisted infrastructure automation
+
+---
+
+### 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,powershell,html,css,react,vercel,git,github,linux,vscode&perline=13" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VMware%20Cloud%20Foundation-0091DA?style=flat-square&logo=vmware&logoColor=white" alt="VCF" />
+  <img src="https://img.shields.io/badge/VCF%20Automation-1565C0?style=flat-square&logo=vmware&logoColor=white" alt="VCF Automation" />
+  <img src="https://img.shields.io/badge/VCF%20Operations%20Orchestrator-00B4D8?style=flat-square&logo=vmware&logoColor=white" alt="vRO" />
+  <img src="https://img.shields.io/badge/Aria%20Automation-3F51B5?style=flat-square&logo=vmware&logoColor=white" alt="Aria Automation" />
+  <img src="https://img.shields.io/badge/NSX-5E35B1?style=flat-square&logo=vmware&logoColor=white" alt="NSX" />
+  <img src="https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=vmware&logoColor=white" alt="vSphere" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-111111?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+</p>
+
+---
+
+### 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/imtrinity94/vRO-Peekage">vRO Peekage</a></h4>
+      Peek into vRO <code>.package</code> files in the browser, no Orchestrator needed. Browse workflows, actions and config elements, render workflow schemas, and export documentation.
+      <br/><br/>
+      <a href="https://vro-peekage.vercel.app"><img src="https://img.shields.io/badge/Live%20app-vro--peekage.vercel.app-000000?style=flat-square&logo=vercel" alt="Live app" /></a>
+      <img src="https://img.shields.io/github/stars/imtrinity94/vRO-Peekage?style=flat-square&color=1565C0" alt="Stars" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📘 <a href="https://github.com/imtrinity94/modern-vroapi">modern-vroapi</a></h4>
+      A modern, searchable documentation website for the VCF Orchestrator scripting API.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/github/stars/imtrinity94/modern-vroapi?style=flat-square&color=1565C0" alt="Stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/imtrinity94/vcf-orchestrator-mcp">vcf-orchestrator-mcp</a></h4>
+      MCP server for VCF Operations Orchestrator 9.x, embedded in VCF Automation or standalone. Full REST API access plus workflow, action and script tools for AI assistants.
+      <br/><br/>
+      <a href="https://www.npmjs.com/package/vcf-orchestrator-mcp"><img src="https://img.shields.io/npm/v/vcf-orchestrator-mcp?style=flat-square&color=CB3837&logo=npm" alt="npm" /></a>
+      <img src="https://img.shields.io/github/stars/imtrinity94/vcf-orchestrator-mcp?style=flat-square&color=1565C0" alt="Stars" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔁 <a href="https://github.com/imtrinity94/Curl2vRO">curl2vRO</a></h4>
+      Convert curl commands into ready-to-run Orchestrator JavaScript. Available as an npm library and a <a href="https://github.com/imtrinity94/Curl2vRO-WebApp">web app</a>.
+      <br/><br/>
+      <a href="https://www.npmjs.com/package/curl2vro"><img src="https://img.shields.io/npm/v/curl2vro?style=flat-square&color=CB3837&logo=npm" alt="npm" /></a>
+      <img src="https://img.shields.io/github/stars/imtrinity94/Curl2vRO?style=flat-square&color=1565C0" alt="Stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📜 <a href="https://github.com/imtrinity94/vmware_vro">vmware_vro</a></h4>
+      A collection of reusable Orchestrator code snippets for everyday automation tasks.
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/imtrinity94/vmware_vro?style=flat-square&color=1565C0" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/imtrinity94/vmware_vro?style=flat-square&color=00B4D8" alt="Forks" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧱 <a href="https://github.com/imtrinity94/Aria_Automation_Templates">Aria Automation Templates</a></h4>
+      A collection of Aria Automation cloud templates (formerly Cloud Assembly templates).
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/imtrinity94/Aria_Automation_Templates?style=flat-square&color=1565C0" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/imtrinity94/Aria_Automation_Templates?style=flat-square&color=00B4D8" alt="Forks" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📦 npm packages
+
+| Package | What it does | Version | Downloads |
+|---|---|---|---|
+| [`vcf-orchestrator-mcp`](https://www.npmjs.com/package/vcf-orchestrator-mcp) | MCP server for VCF Operations Orchestrator 9.x | ![v](https://img.shields.io/npm/v/vcf-orchestrator-mcp?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/vcf-orchestrator-mcp?style=flat-square&color=1565C0) |
+| [`curl2vro`](https://www.npmjs.com/package/curl2vro) | Convert curl commands to Orchestrator JavaScript | ![v](https://img.shields.io/npm/v/curl2vro?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/curl2vro?style=flat-square&color=1565C0) |
+| [`vro-action-extractor`](https://www.npmjs.com/package/vro-action-extractor) | CLI to extract scriptable actions from workflows, packages and folders | ![v](https://img.shields.io/npm/v/vro-action-extractor?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/vro-action-extractor?style=flat-square&color=1565C0) |
+| [`vra_iaas-mcp`](https://www.npmjs.com/package/vra_iaas-mcp) | MCP server for the vRA IaaS API | ![v](https://img.shields.io/npm/v/vra_iaas-mcp?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/vra_iaas-mcp?style=flat-square&color=1565C0) |
+| [`vra_iaas`](https://www.npmjs.com/package/vra_iaas) | TypeScript library for the vRA IaaS API | ![v](https://img.shields.io/npm/v/vra_iaas?style=flat-square&color=CB3837) | ![dm](https://img.shields.io/npm/dm/vra_iaas?style=flat-square&color=1565C0) |
+
+---
+
+### ✍️ Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+- [vRO Peekage: Peek into your vRO Packages and Let AI Understand Your Orchestrator Code](https://cloudblogger.co.in/2026/10/10/vro-peekage-browse-vro-packages-in-your-browser/)
+- [Using vSphere DataSets from Orchestrator to Deliver Data into a Guest OS secretively](https://cloudblogger.co.in/2026/08/21/using-vsphere-datasets-from-orchestrator-to-deliver-data-into-a-guest-os-secretively/)
+<!-- BLOG-POST-LIST:END -->
+
+<p align="right"><a href="https://cloudblogger.co.in">➡️ Read more on cloudblogger.co.in</a></p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" alt="Repos per language" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imtrinity94&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imtrinity94/imtrinity94/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imtrinity94/imtrinity94/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/imtrinity94/imtrinity94/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:1565C0,100:0B1D3A&height=110&section=footer" width="100%" alt="" />
+</p>

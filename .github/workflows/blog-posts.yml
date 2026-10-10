@@ -1,0 +1,24 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "43 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest cloudblogger.co.in posts
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://cloudblogger.co.in/feed/"
+          max_post_count: 5
+          commit_message: "Update latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"

@@ -1,0 +1,22 @@
+name: GitHub stats cards
+
+on:
+  schedule:
+    - cron: "29 2 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 5.5
