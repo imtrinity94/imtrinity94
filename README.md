@@ -86,6 +86,7 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
       <h4>📜 <a href="https://github.com/imtrinity94/vmware_vro">vmware_vro</a></h4>
       A collection of reusable Orchestrator code snippets for everyday automation tasks.
       <br/><br/>
+      <a href="https://imtrinity94.github.io/vmware_vro/"><img src="https://img.shields.io/badge/Live%20site-imtrinity94.github.io%2Fvmware__vro-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Live site" /></a>
       <img src="https://img.shields.io/github/stars/imtrinity94/vmware_vro?style=flat-square&color=1565C0" alt="Stars" />
       <img src="https://img.shields.io/github/forks/imtrinity94/vmware_vro?style=flat-square&color=00B4D8" alt="Forks" />
     </td>
