@@ -27,7 +27,7 @@
 
 I design and deliver infrastructure automation on **VMware Cloud Foundation**, working with enterprise customers on VCF and vSphere platforms.
 
-- 🏗️ **Focus:** VCF Automation 9.x, VCF Operations Orchestrator (vRO), Aria Automation 8.x and NSX
+- 🏗️ **Focus:** VCF Automation 9.x, VCF Operations Orchestrator (vRO) and Aria Automation 8.x
 - 🧩 **What I do:** solution architecture and low-level design, automation services, custom integrations and code migrations
 - 🛠️ **What I build:** open-source developer tooling for Orchestrator — documentation sites, package explorers, code converters and MCP servers
 - ✍️ **Where I write:** [cloudblogger.co.in](https://cloudblogger.co.in), a blog on vRO and VCF Automation
