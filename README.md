@@ -38,17 +38,10 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,powershell,html,css,react,vercel,git,github,linux,vscode&perline=13" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VMware%20Cloud%20Foundation-0091DA?style=flat-square&logo=vmware&logoColor=white" alt="VCF" />
-  <img src="https://img.shields.io/badge/VCF%20Automation-1565C0?style=flat-square&logo=vmware&logoColor=white" alt="VCF Automation" />
-  <img src="https://img.shields.io/badge/VCF%20Operations%20Orchestrator-00B4D8?style=flat-square&logo=vmware&logoColor=white" alt="vRO" />
-  <img src="https://img.shields.io/badge/Aria%20Automation-3F51B5?style=flat-square&logo=vmware&logoColor=white" alt="Aria Automation" />
-  <img src="https://img.shields.io/badge/NSX-5E35B1?style=flat-square&logo=vmware&logoColor=white" alt="NSX" />
-  <img src="https://img.shields.io/badge/vSphere-607078?style=flat-square&logo=vmware&logoColor=white" alt="vSphere" />
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-111111?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <a href="https://262.ecma-international.org/5.1/"><img src="https://img.shields.io/badge/JavaScript-ES5.1-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript ES5.1" /></a>
+  <a href="https://techdocs.broadcom.com/us/en/vmware-cis/vcf/vcf-9-0-and-later/9-1/configuration-of-vmware-cloud-foundation-operations-orchestrator.html"><img src="https://img.shields.io/badge/VCF%20Operations-Orchestrator-00B4D8?style=for-the-badge&logo=vmware&logoColor=white" alt="VCF Operations Orchestrator" /></a>
+  <a href="https://www.vmware.com/products/cloud-infrastructure/vcf-automation"><img src="https://img.shields.io/badge/VCF-Automation-1565C0?style=for-the-badge&logo=vmware&logoColor=white" alt="VCF Automation" /></a>
+  <a href="https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation"><img src="https://img.shields.io/badge/VMware-Cloud%20Foundation-0091DA?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Cloud Foundation" /></a>
 </p>
 
 ---
