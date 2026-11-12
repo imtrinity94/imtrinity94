@@ -114,11 +114,11 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto in VCF Operations Orchestrator without the Crypto Plugin](https://cloudblogger.co.in/2026/11/12/crypto-in-vcf-operations-orchestrator-without-the-crypto-plugin/)
+- [vRO PackLens: Browse and Edit vRO Packages Right in VS Code](https://cloudblogger.co.in/2026/11/12/vro-packlens-browse-and-edit-vro-packages-in-vs-code/)
+- [Orchestrator not reachable in VCF Automation 9.1? Check the vco volume](https://cloudblogger.co.in/2026/11/12/orchestrator-not-reachable-in-vcf-automation-9-1-check-the-vco-volume/)
 - [Multi-NIC VMs with static IPs in VCF Automation](https://cloudblogger.co.in/2026/11/02/multi-nic-vms-with-static-ips-in-vcf-automation/)
 - [Calling GraphQL APIs from VCF Operations Orchestrator](https://cloudblogger.co.in/2026/11/01/calling-graphql-apis-from-vcf-operations-orchestrator/)
-- [Resolving TypeError: Cannot find function exec in Orchestrator 9.1.1](https://cloudblogger.co.in/2026/10/27/resolving-typeerror-cannot-find-function-exec-in-orchestrator-9-1-1/)
-- [vcf-orchestrator-mcp: Let AI Build, Run and Debug Your Orchestrator Workflows](https://cloudblogger.co.in/2026/10/14/vcf-orchestrator-mcp-claude-for-vcf-operations-orchestrator/)
-- [vRO Peekage: Peek into your vRO Packages and Let AI Understand Your Orchestrator Code](https://cloudblogger.co.in/2026/10/10/vro-peekage-browse-vro-packages-in-your-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://cloudblogger.co.in">➡️ Read more on cloudblogger.co.in</a></p>
