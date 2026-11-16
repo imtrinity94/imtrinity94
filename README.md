@@ -114,11 +114,11 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Every CloudBlogger post, organised by topic and level](https://cloudblogger.co.in/2026/11/16/every-cloudblogger-post-organised-by-topic-and-level/)
 - [From Idea to Prototype in vRO + VCFA: My AI Dev Loop](https://cloudblogger.co.in/2026/11/15/vro-idea-to-blog-post-ai-dev-loop-claude/)
 - [Deploy a repeatable WordPress server with VCF Automation and cloud-init](https://cloudblogger.co.in/2026/11/13/deploy-a-repeatable-wordpress-server-with-vcf-automation-and-cloud-init/)
 - [Crypto in VCF Operations Orchestrator without the Crypto Plugin](https://cloudblogger.co.in/2026/11/12/crypto-in-vcf-operations-orchestrator-without-the-crypto-plugin/)
 - [vRO PackLens: Browse and Edit vRO Packages Right in VS Code](https://cloudblogger.co.in/2026/11/12/vro-packlens-browse-and-edit-vro-packages-in-vs-code/)
-- [Orchestrator not reachable in VCF Automation 9.1? Check the vco volume](https://cloudblogger.co.in/2026/11/12/orchestrator-not-reachable-in-vcf-automation-9-1-check-the-vco-volume/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://cloudblogger.co.in">➡️ Read more on cloudblogger.co.in</a></p>
