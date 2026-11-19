@@ -114,11 +114,11 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Ansible AWX with VCF Automation and add it as an Ansible integration](https://cloudblogger.co.in/2026/11/19/deploy-ansible-awx-with-vcf-automation-and-add-it-as-an-ansible-integration/)
 - [vcf-automation-mcp: Every VCF Automation 9 API as an AI Tool, for VM Apps and All Apps Orgs](https://cloudblogger.co.in/2026/11/18/vcf-automation-mcp-every-vcf-automation-api-as-an-ai-tool/)
 - [Every CloudBlogger post, organised by topic and level](https://cloudblogger.co.in/2026/11/16/every-cloudblogger-post-organised-by-topic-and-level/)
 - [From Idea to Prototype in vRO + VCFA: My AI Dev Loop](https://cloudblogger.co.in/2026/11/15/vro-idea-to-blog-post-ai-dev-loop-claude/)
 - [Deploy a repeatable WordPress server with VCF Automation and cloud-init](https://cloudblogger.co.in/2026/11/13/deploy-a-repeatable-wordpress-server-with-vcf-automation-and-cloud-init/)
-- [Crypto in VCF Operations Orchestrator without the Crypto Plugin](https://cloudblogger.co.in/2026/11/12/crypto-in-vcf-operations-orchestrator-without-the-crypto-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://cloudblogger.co.in">➡️ Read more on cloudblogger.co.in</a></p>
