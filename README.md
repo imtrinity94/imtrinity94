@@ -114,11 +114,11 @@ I design and deliver infrastructure automation on **VMware Cloud Foundation**, w
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger-based long-running workflows in Orchestrator: wait for a vCenter task without a busy thread](https://cloudblogger.co.in/2026/11/25/trigger-based-long-running-workflows-in-orchestrator/)
 - [Data Objects in Orchestrator](https://cloudblogger.co.in/2026/11/24/data-objects-in-orchestrator/)
 - [Deploy Ansible AWX with VCF Automation and add it as an Ansible integration](https://cloudblogger.co.in/2026/11/19/deploy-ansible-awx-with-vcf-automation-and-add-it-as-an-ansible-integration/)
 - [vcf-automation-mcp: Every VCF Automation 9 API as an AI Tool, for VM Apps and All Apps Orgs](https://cloudblogger.co.in/2026/11/18/vcf-automation-mcp-every-vcf-automation-api-as-an-ai-tool/)
 - [Every CloudBlogger post, organised by topic and level](https://cloudblogger.co.in/2026/11/16/every-cloudblogger-post-organised-by-topic-and-level/)
-- [From Idea to Prototype in vRO + VCFA: My AI Dev Loop](https://cloudblogger.co.in/2026/11/15/vro-idea-to-blog-post-ai-dev-loop-claude/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://cloudblogger.co.in">➡️ Read more on cloudblogger.co.in</a></p>
